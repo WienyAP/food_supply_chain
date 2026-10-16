@@ -1,0 +1,14 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+
+# Data penelitian dan hasil pemrosesan
+data/
+outputs/
+
+# File editor dan sistem
+.vscode/
+.DS_Store
