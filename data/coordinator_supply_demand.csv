@@ -1,0 +1,229 @@
+year,region_supply,region_key,produksi_beras,jumlah_bulan_tercatat,cakupan_bulan_lengkap,pertumbuhan_produksi_pct,rata_produksi_historis,rasio_produksi_historis,supply_status,region_demand,jumlah_penduduk,konsumsi_per_kapita_kg_tahun,estimasi_konsumsi_ton_tahun,unit_status
+2020,Kabupaten Bangkalan,kabupaten bangkalan,119696.25,12,True,,115479.18,1.03651801129866,normal,,,,,
+2021,Kabupaten Bangkalan,kabupaten bangkalan,112783.6,12,True,-5.775160040519223,115479.18,0.9766574372973553,normal,Bangkalan,1069510.0,91.11,97443.05609999999,verified_from_source_metadata
+2022,Kabupaten Bangkalan,kabupaten bangkalan,114400.05,12,True,1.4332314272642366,115479.18,0.9906551986254146,normal,Bangkalan,1080761.0,92.92,100424.31212,verified_from_source_metadata
+2023,Kabupaten Bangkalan,kabupaten bangkalan,107549.1,12,True,-5.988590039951902,115479.18,0.9313289200702674,normal,Bangkalan,1091777.0,97.7,106666.61290000001,verified_from_source_metadata
+2024,Kabupaten Bangkalan,kabupaten bangkalan,109225.9,12,True,1.5591018427862036,115479.18,0.9458492864254838,normal,Bangkalan,1102522.0,91.22,100572.05684,verified_from_source_metadata
+2025,Kabupaten Bangkalan,kabupaten bangkalan,129220.18,12,True,18.30543854525346,115479.18,1.118991146282819,normal,Bangkalan,1112956.0,110.1,122536.4556,verified_from_source_metadata
+2020,Kabupaten Banyuwangi,kabupaten banyuwangi,271868.24,12,True,,264705.23833333334,1.0270602943552123,normal,,,,,
+2021,Kabupaten Banyuwangi,kabupaten banyuwangi,296499.51,12,True,9.060002742504981,264705.23833333334,1.1201119851909744,normal,Banyuwangi,1721948.0,93.21,160502.77307999998,verified_from_source_metadata
+2022,Kabupaten Banyuwangi,kabupaten banyuwangi,266887.02,12,True,-9.9873655777711,264705.23833333334,1.0082423063495225,normal,Banyuwangi,1733087.0,90.89,157520.27743000002,verified_from_source_metadata
+2023,Kabupaten Banyuwangi,kabupaten banyuwangi,262592.47000000003,12,True,-1.6091265884717765,264705.23833333334,0.9920184113218312,normal,Banyuwangi,1743910.0,96.1,167589.751,verified_from_source_metadata
+2024,Kabupaten Banyuwangi,kabupaten banyuwangi,228445.54,12,True,-13.003773489772962,264705.23833333334,0.863018584136696,normal,Banyuwangi,1754393.0,91.89,161211.17277,verified_from_source_metadata
+2025,Kabupaten Banyuwangi,kabupaten banyuwangi,261938.65,12,True,14.66131052503803,264705.23833333334,0.9895484186457637,normal,Banyuwangi,1764540.0,89.7,158279.238,verified_from_source_metadata
+2020,Kabupaten Blitar,kabupaten blitar,113663.73,12,True,,125349.45,0.9067748602008225,normal,,,,,
+2021,Kabupaten Blitar,kabupaten blitar,142834.27,12,True,25.663894718218373,125349.45,1.1394886056540334,normal,Blitar,1232584.0,85.22,105040.80848,verified_from_source_metadata
+2022,Kabupaten Blitar,kabupaten blitar,124424.09,12,True,-12.889189688160963,125349.45,0.9926177577963047,normal,Blitar,1243195.0,84.91,105559.68745,verified_from_source_metadata
+2023,Kabupaten Blitar,kabupaten blitar,138710.41999999998,12,True,11.481964625981988,125349.45,1.1065897776176918,normal,Blitar,1253550.0,83.4,104546.07,verified_from_source_metadata
+2024,Kabupaten Blitar,kabupaten blitar,98827.77,12,True,-28.75245421360557,125349.45,0.7884180584757253,low,Blitar,1263645.0,83.89,106007.17904999999,verified_from_source_metadata
+2025,Kabupaten Blitar,kabupaten blitar,133636.42,12,True,35.221527309581106,125349.45,1.066110940255422,normal,Blitar,1273451.0,80.6,102640.1506,verified_from_source_metadata
+2020,Kabupaten Bojonegoro,kabupaten bojonegoro,420890.28,12,True,,423766.8133333333,0.993211990078443,normal,,,,,
+2021,Kabupaten Bojonegoro,kabupaten bojonegoro,389182.32,12,True,-7.533545322073021,423766.8133333333,0.9183879146616202,normal,Bojonegoro,1306974.0,96.15,125665.55010000001,verified_from_source_metadata
+2022,Kabupaten Bojonegoro,kabupaten bojonegoro,406670.62,12,True,4.49360083983259,423766.8133333333,0.9596566017077758,normal,Bojonegoro,1313508.0,95.96,126044.22768,verified_from_source_metadata
+2023,Kabupaten Bojonegoro,kabupaten bojonegoro,407637.02999999997,12,True,0.2376394931111525,423766.8133333333,0.9619371247916818,normal,Bojonegoro,1319625.0,100.6,132754.275,verified_from_source_metadata
+2024,Kabupaten Bojonegoro,kabupaten bojonegoro,410272.7,12,True,0.6465727610663885,423766.8133333333,0.9681567482191701,normal,Bojonegoro,1325299.0,93.06,123332.32493999999,verified_from_source_metadata
+2025,Kabupaten Bojonegoro,kabupaten bojonegoro,507947.93,12,True,23.80739201024098,423766.8133333333,1.1986496205413097,normal,Bojonegoro,1330516.0,94.5,125733.762,verified_from_source_metadata
+2020,Kabupaten Bondowoso,kabupaten bondowoso,150717.32,12,True,,148659.34666666665,1.013843551579356,normal,,,,,
+2021,Kabupaten Bondowoso,kabupaten bondowoso,149523.79,12,True,-0.7918996967302805,148659.34666666665,1.0058149275690795,normal,Bondowoso,779445.0,97.67,76128.39315,verified_from_source_metadata
+2022,Kabupaten Bondowoso,kabupaten bondowoso,137817.3,12,True,-7.829182232472853,148659.34666666665,0.9270678439682816,normal,Bondowoso,783865.0,96.02,75266.7173,verified_from_source_metadata
+2023,Kabupaten Bondowoso,kabupaten bondowoso,143072.44,12,True,3.8131207040045245,148659.34666666665,0.9624180598668043,normal,Bondowoso,788156.0,96.6,76135.86959999999,verified_from_source_metadata
+2024,Kabupaten Bondowoso,kabupaten bondowoso,149827.65,12,True,4.7215312746466065,148659.34666666665,1.0078589295562626,normal,Bondowoso,792309.0,99.79,79064.51511,verified_from_source_metadata
+2025,Kabupaten Bondowoso,kabupaten bondowoso,160997.58,12,True,7.455186008724013,148659.34666666665,1.0829966874602166,normal,Bondowoso,796300.0,92.4,73578.12,verified_from_source_metadata
+2020,Kabupaten Gresik,kabupaten gresik,235423.81,12,True,,223327.26333333334,1.0541651139503359,normal,,,,,
+2021,Kabupaten Gresik,kabupaten gresik,219226.91,12,True,-6.879890356034924,223327.26333333334,0.9816397099389821,normal,Gresik,1322046.0,81.31,107495.56026,verified_from_source_metadata
+2022,Kabupaten Gresik,kabupaten gresik,237459.53,12,True,8.316780088721764,223327.26333333334,1.0632805258781735,normal,Gresik,1336386.0,84.26,112603.88436,verified_from_source_metadata
+2023,Kabupaten Gresik,kabupaten gresik,241031.68,12,True,1.5043194939365012,223327.26333333334,1.0792756621041895,normal,Gresik,1350380.0,74.7,100873.386,verified_from_source_metadata
+2024,Kabupaten Gresik,kabupaten gresik,189947.86,12,True,-21.193819833143934,223327.26333333334,0.8505359227748562,normal,Gresik,1364019.0,76.68,104592.97692000002,verified_from_source_metadata
+2025,Kabupaten Gresik,kabupaten gresik,216873.79,12,True,14.17543214227317,223327.26333333334,0.9711030653534628,normal,Gresik,1377287.0,76.9,105913.37030000001,verified_from_source_metadata
+2020,Kabupaten Jember,kabupaten jember,340829.97,12,True,,359235.8433333333,0.94876381721115,normal,,,,,
+2021,Kabupaten Jember,kabupaten jember,355516.37,12,True,4.30901073635046,359235.8433333333,0.9896461519573868,normal,Jember,2550859.0,96.24,245494.67016,verified_from_source_metadata
+2022,Kabupaten Jember,kabupaten jember,350708.35,12,True,-1.3524046726737238,359235.8433333333,0.9762621311553794,normal,Jember,2569143.0,97.4,250234.52820000003,verified_from_source_metadata
+2023,Kabupaten Jember,kabupaten jember,356109.87,12,True,1.540174335740807,359235.8433333333,0.9912982699489907,normal,Jember,2586809.0,95.2,246264.21680000002,verified_from_source_metadata
+2024,Kabupaten Jember,kabupaten jember,359885.69,12,True,1.0602963630297557,359235.8433333333,1.001808969452037,normal,Jember,2603817.0,92.96,242050.82832,verified_from_source_metadata
+2025,Kabupaten Jember,kabupaten jember,392364.81,12,True,9.024843416252537,359235.8433333333,1.0922206602750564,normal,Jember,2620135.0,87.3,228737.7855,verified_from_source_metadata
+2020,Kabupaten Jombang,kabupaten jombang,198149.75,12,True,,205751.0,0.9630560726314817,normal,,,,,
+2021,Kabupaten Jombang,kabupaten jombang,188716.28999999998,12,True,-4.760773102161386,205751.0,0.9172071581669103,normal,Jombang,1327472.0,82.57,109609.36304,verified_from_source_metadata
+2022,Kabupaten Jombang,kabupaten jombang,194689.98,12,True,3.1654342081439024,205751.0,0.9462407473110702,normal,Jombang,1339533.0,82.36,110323.93788,verified_from_source_metadata
+2023,Kabupaten Jombang,kabupaten jombang,200291.71,12,True,2.8772564463769523,205751.0,0.9734665202113234,normal,Jombang,1351271.0,79.4,107290.9174,verified_from_source_metadata
+2024,Kabupaten Jombang,kabupaten jombang,197645.9,12,True,-1.3209782871193232,205751.0,0.9606072388469558,normal,Jombang,1362697.0,77.31,105350.10507,verified_from_source_metadata
+2025,Kabupaten Jombang,kabupaten jombang,255012.37,12,True,29.024872258923672,205751.0,1.2394222628322584,high,Jombang,1373793.0,80.6,110727.71579999999,verified_from_source_metadata
+2020,Kabupaten Kediri,kabupaten kediri,124672.75,12,True,,109605.82333333335,1.1374646547824845,normal,,,,,
+2021,Kabupaten Kediri,kabupaten kediri,114457.39,12,True,-8.193739209249816,109605.82333333335,1.044263767372214,normal,Kediri,1650470.0,88.84,146627.75480000002,verified_from_source_metadata
+2022,Kabupaten Kediri,kabupaten kediri,97499.45,12,True,-14.815941548204103,109605.82333333335,0.8895462579892728,normal,Kediri,1664005.0,89.28,148562.3664,verified_from_source_metadata
+2023,Kabupaten Kediri,kabupaten kediri,105976.09000000001,12,True,8.694038786885482,109605.82333333335,0.9668837546861485,normal,Kediri,1677168.0,91.2,152957.7216,verified_from_source_metadata
+2024,Kabupaten Kediri,kabupaten kediri,100512.8,12,True,-5.1552100101070035,109605.82333333335,0.9170388665784697,normal,Kediri,1689916.0,85.06,143744.25496000002,verified_from_source_metadata
+2025,Kabupaten Kediri,kabupaten kediri,114516.46,12,True,13.932215598411357,109605.82333333335,1.0448026985914098,normal,Kediri,1702262.0,81.7,139074.8054,verified_from_source_metadata
+2020,Kabupaten Lamongan,kabupaten lamongan,511629.45,12,True,,484801.44,1.0553381400847324,normal,,,,,
+2021,Kabupaten Lamongan,kabupaten lamongan,457699.04,12,True,-10.54091198229501,484801.44,0.9440958756228116,normal,Lamongan,1351293.0,91.92,124210.85256,verified_from_source_metadata
+2022,Kabupaten Lamongan,kabupaten lamongan,521919.83999999997,12,True,14.031228905352311,484801.44,1.0765641290174386,normal,Lamongan,1360569.0,92.07,125267.58782999999,verified_from_source_metadata
+2023,Kabupaten Lamongan,kabupaten lamongan,461188.28,12,True,-11.636185357506236,484801.44,0.9512931314725468,normal,Lamongan,1369527.0,96.7,132433.2609,verified_from_source_metadata
+2024,Kabupaten Lamongan,kabupaten lamongan,448245.88,12,True,-2.8063158933700594,484801.44,0.924596841131495,normal,Lamongan,1378147.0,90.56,124804.99232,verified_from_source_metadata
+2025,Kabupaten Lamongan,kabupaten lamongan,508126.14999999997,12,True,13.358799862254166,484801.44,1.0481118826709754,normal,Lamongan,1386390.0,87.5,121309.125,verified_from_source_metadata
+2020,Kabupaten Lumajang,kabupaten lumajang,167849.24,12,True,,166707.13499999998,1.0068509665168202,normal,,,,,
+2021,Kabupaten Lumajang,kabupaten lumajang,170382.55,12,True,1.5092770154931934,166707.13499999998,1.0220471367347295,normal,Lumajang,1124917.0,96.45,108498.24465000001,verified_from_source_metadata
+2022,Kabupaten Lumajang,kabupaten lumajang,173704.72,12,True,1.9498299561780286,166707.13499999998,1.041975317973043,normal,Lumajang,1132165.0,97.11,109944.54315000001,verified_from_source_metadata
+2023,Kabupaten Lumajang,kabupaten lumajang,178218.47,12,True,2.5985189118637564,166707.13499999998,1.0690512436675252,normal,Lumajang,1139141.0,99.6,113458.4436,verified_from_source_metadata
+2024,Kabupaten Lumajang,kabupaten lumajang,148466.65,12,True,-16.69401605793159,166707.13499999998,0.8905836573821511,normal,Lumajang,1145849.0,100.01,114596.35849000001,verified_from_source_metadata
+2025,Kabupaten Lumajang,kabupaten lumajang,161621.18,12,True,8.860259189521692,166707.13499999998,0.9694916777257315,normal,Lumajang,1152264.0,95.7,110271.6648,verified_from_source_metadata
+2020,Kabupaten Madiun,kabupaten madiun,257559.63999999998,12,True,,256445.66666666666,1.0043438961079474,normal,,,,,
+2021,Kabupaten Madiun,kabupaten madiun,266651.51,12,True,3.530005710522044,256445.66666666666,1.0397972929938377,normal,Madiun,747135.0,87.5,65374.3125,verified_from_source_metadata
+2022,Kabupaten Madiun,kabupaten madiun,231876.72,12,True,-13.041287484177388,256445.66666666666,0.904194338761817,normal,Madiun,750928.0,87.92,66021.58976,verified_from_source_metadata
+2023,Kabupaten Madiun,kabupaten madiun,252675.05,12,True,8.969563654341828,256445.66666666666,0.9852966255360135,normal,Madiun,754497.0,84.7,63905.895899999996,verified_from_source_metadata
+2024,Kabupaten Madiun,kabupaten madiun,252597.18,12,True,-0.030818238682450705,256445.66666666666,0.9849929744702257,normal,Madiun,757839.0,86.49,65545.49511,verified_from_source_metadata
+2025,Kabupaten Madiun,kabupaten madiun,277313.89999999997,12,True,9.785034021361593,256445.66666666666,1.0813748721301588,normal,Madiun,760948.0,82.6,62854.3048,verified_from_source_metadata
+2020,Kabupaten Magetan,kabupaten magetan,178453.47,12,True,,167632.27333333332,1.0645531821020464,normal,,,,,
+2021,Kabupaten Magetan,kabupaten magetan,177429.44999999998,12,True,-0.5738302539031737,167632.27333333332,1.058444453874256,normal,Magetan,673569.0,86.35,58162.68315,verified_from_source_metadata
+2022,Kabupaten Magetan,kabupaten magetan,153997.9,12,True,-13.206122208009996,167632.27333333332,0.9186649857917177,normal,Magetan,677681.0,82.13,55657.94052999999,verified_from_source_metadata
+2023,Kabupaten Magetan,kabupaten magetan,162019.53,12,True,5.208921680100831,167632.27333333332,0.9665175254041177,normal,Magetan,681658.0,84.1,57327.4378,verified_from_source_metadata
+2024,Kabupaten Magetan,kabupaten magetan,157200.36,12,True,-2.9744377113055553,167632.27333333332,0.9377690636421204,normal,Magetan,685500.0,80.29,55038.795000000006,verified_from_source_metadata
+2025,Kabupaten Magetan,kabupaten magetan,176692.93,12,True,12.399825293020971,167632.27333333332,1.054050789185742,normal,Magetan,689209.0,79.3,54654.2737,verified_from_source_metadata
+2020,Kabupaten Malang,kabupaten malang,158438.2,12,True,,153967.60666666666,1.0290359344417945,normal,,,,,
+2021,Kabupaten Malang,kabupaten malang,157842.77,12,True,-0.3758121463132147,153967.60666666666,1.0251686924102346,normal,Malang,2672120.0,82.87,221438.5844,verified_from_source_metadata
+2022,Kabupaten Malang,kabupaten malang,156831.2,12,True,-0.6408719259044848,153967.60666666666,1.0185986740674153,normal,Malang,2694319.0,82.56,222442.97664,verified_from_source_metadata
+2023,Kabupaten Malang,kabupaten malang,161311.5,12,True,2.8567657455914386,153967.60666666666,1.047697652073222,normal,Malang,2715617.0,82.5,224038.4025,verified_from_source_metadata
+2024,Kabupaten Malang,kabupaten malang,147123.04,12,True,-8.795690325860207,153967.60666666666,0.9555454110455529,normal,Malang,2735993.0,76.81,210151.62233,verified_from_source_metadata
+2025,Kabupaten Malang,kabupaten malang,142258.93,12,True,-3.3061510963884433,153967.60666666666,0.9239536359617809,normal,Malang,2755438.0,73.8,203351.3244,verified_from_source_metadata
+2020,Kabupaten Mojokerto,kabupaten mojokerto,180551.4,12,True,,172511.23166666666,1.0466066368876716,normal,,,,,
+2021,Kabupaten Mojokerto,kabupaten mojokerto,171518.24,12,True,-5.003096071257273,172511.23166666666,0.9942439013560267,normal,Mojokerto,1126783.0,86.38,97331.51554,verified_from_source_metadata
+2022,Kabupaten Mojokerto,kabupaten mojokerto,162733.96,12,True,-5.121484455530789,172511.23166666666,0.9433238544980148,normal,Mojokerto,1136296.0,86.26,98016.89296000001,verified_from_source_metadata
+2023,Kabupaten Mojokerto,kabupaten mojokerto,174895.22,12,True,7.473092893456301,172511.23166666666,1.013819322430784,normal,Mojokerto,1145450.0,84.9,97248.705,verified_from_source_metadata
+2024,Kabupaten Mojokerto,kabupaten mojokerto,164977.26,12,True,-5.670801065918207,172511.23166666666,0.9563276454878944,normal,Mojokerto,1154257.0,80.41,92813.80536999999,verified_from_source_metadata
+2025,Kabupaten Mojokerto,kabupaten mojokerto,180391.31,12,True,9.343136138883622,172511.23166666666,1.0456786393396087,normal,Mojokerto,1162696.0,81.6,94875.99359999999,verified_from_source_metadata
+2020,Kabupaten Nganjuk,kabupaten nganjuk,252265.66,12,True,,240684.77666666664,1.0481163931251545,normal,,,,,
+2021,Kabupaten Nganjuk,kabupaten nganjuk,247892.8,12,True,-1.7334345070985968,240684.77666666664,1.029947981892166,normal,Nganjuk,1109721.0,90.6,100540.7226,verified_from_source_metadata
+2022,Kabupaten Nganjuk,kabupaten nganjuk,217385.07,12,True,-12.306823756075202,240684.77666666664,0.9031940989814438,normal,Nganjuk,1117336.0,90.28,100873.09408,verified_from_source_metadata
+2023,Kabupaten Nganjuk,kabupaten nganjuk,241417.13999999998,12,True,11.055069237275571,240684.77666666664,1.0030428319708298,normal,Nganjuk,1124693.0,91.8,103246.81739999999,verified_from_source_metadata
+2024,Kabupaten Nganjuk,kabupaten nganjuk,233840.77,12,True,-3.1382900153651083,240684.77666666664,0.9715644389252538,normal,Nganjuk,1131777.0,102.8,116346.67559999999,verified_from_source_metadata
+2025,Kabupaten Nganjuk,kabupaten nganjuk,251307.22,12,True,7.469377559781387,240684.77666666664,1.0441342551051527,normal,Nganjuk,1138604.0,85.8,97692.22320000001,verified_from_source_metadata
+2020,Kabupaten Ngawi,kabupaten ngawi,483747.06,12,True,,451322.48833333334,1.0718434656035105,normal,,,,,
+2021,Kabupaten Ngawi,kabupaten ngawi,454126.86,12,True,-6.123075972802816,451322.48833333334,1.006213675895085,normal,Ngawi,873151.0,93.76,81866.63776000001,verified_from_source_metadata
+2022,Kabupaten Ngawi,kabupaten ngawi,436494.35000000003,12,True,-3.882727835125177,451322.48833333334,0.9671451374202703,normal,Ngawi,877069.0,90.65,79506.30485000001,verified_from_source_metadata
+2023,Kabupaten Ngawi,kabupaten ngawi,445336.1,12,True,2.0256275940341295,451322.48833333334,0.9867358961982147,normal,Ngawi,880713.0,92.4,81377.8812,verified_from_source_metadata
+2024,Kabupaten Ngawi,kabupaten ngawi,442132.64,12,True,-0.719335351434558,451322.48833333334,0.9796379560715663,normal,Ngawi,884086.0,112.87,99786.78682000001,verified_from_source_metadata
+2025,Kabupaten Ngawi,kabupaten ngawi,446097.92,12,True,0.8968530348720583,451322.48833333334,0.9884238688113528,normal,Ngawi,887172.0,101.0,89604.372,verified_from_source_metadata
+2020,Kabupaten Pacitan,kabupaten pacitan,48469.17,12,True,,53665.93833333333,0.9031644932572532,normal,,,,,
+2021,Kabupaten Pacitan,kabupaten pacitan,50880.29,12,True,4.974543611949622,53665.93833333333,0.9480928048619791,normal,Pacitan,586463.0,93.78,54998.500140000004,verified_from_source_metadata
+2022,Kabupaten Pacitan,kabupaten pacitan,52215.06,12,True,2.6233537584003486,53665.93833333333,0.9729646330914491,normal,Pacitan,587270.0,94.99,55784.777299999994,verified_from_source_metadata
+2023,Kabupaten Pacitan,kabupaten pacitan,53695.840000000004,12,True,2.835925114325266,53665.93833333333,1.0005571814747922,normal,Pacitan,587973.0,96.7,56856.9891,verified_from_source_metadata
+2024,Kabupaten Pacitan,kabupaten pacitan,40217.87,12,True,-25.100585073257076,53665.93833333333,0.7494114749321288,low,Pacitan,588569.0,95.46,56184.79674,verified_from_source_metadata
+2025,Kabupaten Pacitan,kabupaten pacitan,76517.4,12,True,90.25721650599594,53665.93833333333,1.425809412382398,high,Pacitan,589034.0,87.5,51540.475,verified_from_source_metadata
+2020,Kabupaten Pamekasan,kabupaten pamekasan,58797.21,12,True,,62318.44666666666,0.9434960777263705,normal,,,,,
+2021,Kabupaten Pamekasan,kabupaten pamekasan,55850.35999999999,12,True,-5.011887468810183,62318.44666666666,0.896209116038087,normal,Pamekasan,857392.0,84.92,72809.72864,verified_from_source_metadata
+2022,Kabupaten Pamekasan,kabupaten pamekasan,62158.54,12,True,11.294788431086221,62318.44666666666,0.9974340395946969,normal,Pamekasan,866717.0,82.7,71677.49590000001,verified_from_source_metadata
+2023,Kabupaten Pamekasan,kabupaten pamekasan,62640.340000000004,12,True,0.7751147308157513,62318.44666666666,1.005165297765766,normal,Pamekasan,875814.0,88.2,77246.7948,verified_from_source_metadata
+2024,Kabupaten Pamekasan,kabupaten pamekasan,58608.96,12,True,-6.435756894039857,62318.44666666666,0.9404753028183095,normal,Pamekasan,884697.0,86.42,76455.51474,verified_from_source_metadata
+2025,Kabupaten Pamekasan,kabupaten pamekasan,75855.26999999999,12,True,29.426063864637754,62318.44666666666,1.2172201660567705,high,Pamekasan,893327.0,86.8,77540.7836,verified_from_source_metadata
+2020,Kabupaten Pasuruan,kabupaten pasuruan,157598.88,12,True,,153675.03,1.0255334259573596,normal,,,,,
+2021,Kabupaten Pasuruan,kabupaten pasuruan,152987.93,12,True,-2.925750487566925,153675.03,0.9955288767472503,normal,Pasuruan,1617263.0,91.74,148367.70762,verified_from_source_metadata
+2022,Kabupaten Pasuruan,kabupaten pasuruan,142770.43,12,True,-6.678631444977389,153675.03,0.9290411721409783,normal,Pasuruan,1631125.0,89.56,146083.555,verified_from_source_metadata
+2023,Kabupaten Pasuruan,kabupaten pasuruan,150164.99,12,True,5.179335805040308,153675.03,0.977159334213242,normal,Pasuruan,1644456.0,87.4,143725.45440000002,verified_from_source_metadata
+2024,Kabupaten Pasuruan,kabupaten pasuruan,160150.07,12,True,6.649406096587507,153675.03,1.0421346265557911,normal,Pasuruan,1657216.0,85.73,142073.12768,verified_from_source_metadata
+2025,Kabupaten Pasuruan,kabupaten pasuruan,158377.88,12,True,-1.106580846327454,153675.03,1.0306025643853787,normal,Pasuruan,1669400.0,88.2,147241.08,verified_from_source_metadata
+2020,Kabupaten Ponorogo,kabupaten ponorogo,217879.79,12,True,,226151.49166666667,0.9634240676207494,normal,,,,,
+2021,Kabupaten Ponorogo,kabupaten ponorogo,233661.75,12,True,7.2434253769016355,226151.49166666667,1.0332089710219687,normal,Ponorogo,951761.0,85.12,81013.89632000001,verified_from_source_metadata
+2022,Kabupaten Ponorogo,kabupaten ponorogo,207532.72,12,True,-11.182416463113876,226151.49166666667,0.9176712409480385,normal,Ponorogo,955754.0,86.59,82758.73886,verified_from_source_metadata
+2023,Kabupaten Ponorogo,kabupaten ponorogo,226922.69,12,True,9.34309057386229,226151.49166666667,1.0034100961600998,normal,Ponorogo,959486.0,83.4,80021.1324,verified_from_source_metadata
+2024,Kabupaten Ponorogo,kabupaten ponorogo,218983.65,12,True,-3.4985659653514634,226151.49166666667,0.9683051320429421,normal,Ponorogo,962941.0,87.3,84064.7493,verified_from_source_metadata
+2025,Kabupaten Ponorogo,kabupaten ponorogo,251928.35,12,True,15.044365184341402,226151.49166666667,1.1139804922062015,normal,Ponorogo,966111.0,80.7,77965.1577,verified_from_source_metadata
+2020,Kabupaten Probolinggo,kabupaten probolinggo,111211.15,12,True,,109994.68333333333,1.0110593224127045,normal,,,,,
+2021,Kabupaten Probolinggo,kabupaten probolinggo,109813.84,12,True,-1.2564477572617472,109994.68333333333,0.9983558902316642,normal,Probolinggo,1159476.0,91.08,105605.07407999999,verified_from_source_metadata
+2022,Kabupaten Probolinggo,kabupaten probolinggo,107060.91,12,True,-2.506906233312667,109994.68333333333,0.9733280441888025,normal,Probolinggo,1168332.0,96.6,112860.8712,verified_from_source_metadata
+2023,Kabupaten Probolinggo,kabupaten probolinggo,116087.05,12,True,8.430845581267699,109994.68333333333,1.0553878285935336,normal,Probolinggo,1176935.0,95.4,112279.599,verified_from_source_metadata
+2024,Kabupaten Probolinggo,kabupaten probolinggo,102554.1,12,True,-11.657587991080831,109994.68333333333,0.9323550638280851,normal,Probolinggo,1185242.0,97.07,115051.44094,verified_from_source_metadata
+2025,Kabupaten Probolinggo,kabupaten probolinggo,113241.05,12,True,10.420792537792245,109994.68333333333,1.0295138507452102,normal,Probolinggo,1193272.0,92.4,110258.33280000002,verified_from_source_metadata
+2020,Kabupaten Sampang,kabupaten sampang,110711.93,12,True,,102285.81666666665,1.0823781205246932,normal,,,,,
+2021,Kabupaten Sampang,kabupaten sampang,112943.75,12,True,2.015880312085616,102285.81666666665,1.1041975679586729,normal,Sampang,979814.0,108.11,105927.69154,verified_from_source_metadata
+2022,Kabupaten Sampang,kabupaten sampang,99601.71999999999,12,True,-11.812986553040794,102285.81666666665,0.9737588577367113,normal,Sampang,992376.0,108.06,107236.15056000001,verified_from_source_metadata
+2023,Kabupaten Sampang,kabupaten sampang,96539.65,12,True,-3.074314379309906,102285.81666666665,0.9438224491535077,normal,Sampang,1004523.0,107.5,107986.2225,verified_from_source_metadata
+2024,Kabupaten Sampang,kabupaten sampang,84263.93999999999,12,True,-12.71571836027996,102285.81666666665,0.8238086446980512,normal,Sampang,1016254.0,107.65,109399.7431,verified_from_source_metadata
+2025,Kabupaten Sampang,kabupaten sampang,109653.91,12,True,30.131477355556857,102285.81666666665,1.0720343599283644,normal,Sampang,1027538.0,107.0,109946.566,verified_from_source_metadata
+2020,Kabupaten Sidoarjo,kabupaten sidoarjo,120744.28,12,True,,114201.26833333333,1.0572936865076557,normal,,,,,
+2021,Kabupaten Sidoarjo,kabupaten sidoarjo,116928.40999999999,12,True,-3.1602904916075647,114201.26833333333,1.0238801346645872,normal,Sidoarjo,2101208.0,77.49,162822.60791999998,verified_from_source_metadata
+2022,Kabupaten Sidoarjo,kabupaten sidoarjo,112331.58,12,True,-3.9313200273568993,114201.26833333333,0.9836281298743895,normal,Sidoarjo,2125219.0,76.96,163556.85424,verified_from_source_metadata
+2023,Kabupaten Sidoarjo,kabupaten sidoarjo,113090.81999999999,12,True,0.6758918551666326,114201.26833333333,0.9902763922893384,normal,Sidoarjo,2148646.0,74.7,160503.8562,verified_from_source_metadata
+2024,Kabupaten Sidoarjo,kabupaten sidoarjo,120673.11,12,True,6.704602548641891,114201.26833333333,1.0566704885253684,normal,Sidoarjo,2171480.0,77.38,168029.12239999996,verified_from_source_metadata
+2025,Kabupaten Sidoarjo,kabupaten sidoarjo,101439.41,12,True,-15.9386792964895,114201.26833333333,0.888251168138661,normal,Sidoarjo,2193692.0,72.6,159262.0392,verified_from_source_metadata
+2020,Kabupaten Situbondo,kabupaten situbondo,92345.76,12,True,,93483.22333333333,0.9878324335343308,normal,,,,,
+2021,Kabupaten Situbondo,kabupaten situbondo,87281.16,12,True,-5.484388238290516,93483.22333333333,0.933655867735555,normal,Situbondo,689114.0,93.62,64514.852679999996,verified_from_source_metadata
+2022,Kabupaten Situbondo,kabupaten situbondo,81778.89,12,True,-6.304075243729579,93483.22333333333,0.8747974993160093,normal,Situbondo,693149.0,95.16,65960.05884,verified_from_source_metadata
+2023,Kabupaten Situbondo,kabupaten situbondo,90812.73,12,True,11.046664976744003,93483.22333333333,0.9714334482903831,normal,Situbondo,697024.0,94.7,66008.1728,verified_from_source_metadata
+2024,Kabupaten Situbondo,kabupaten situbondo,93678.79,12,True,3.1560112772735627,93483.22333333333,1.0020919974696352,normal,Situbondo,700719.0,92.17,64585.27023,verified_from_source_metadata
+2025,Kabupaten Situbondo,kabupaten situbondo,115002.01,12,True,22.762057451852225,93483.22333333333,1.230188753654087,high,Situbondo,704243.0,89.6,63100.1728,verified_from_source_metadata
+2020,Kabupaten Sumenep,kabupaten sumenep,132217.78,12,True,,128026.88,1.0327345319982804,normal,,,,,
+2021,Kabupaten Sumenep,kabupaten sumenep,128175.38,12,True,-3.0573800286164188,128026.88,1.0011599126683397,normal,Sumenep,1132238.0,107.7,121942.0326,verified_from_source_metadata
+2022,Kabupaten Sumenep,kabupaten sumenep,133142.3,12,True,3.8750967619522347,128026.88,1.0399558280261143,normal,Sumenep,1139596.0,103.36,117788.64256000001,verified_from_source_metadata
+2023,Kabupaten Sumenep,kabupaten sumenep,125768.19,12,True,-5.538517811394261,128026.88,0.9823576892602554,normal,Sumenep,1146586.0,108.5,124404.581,verified_from_source_metadata
+2024,Kabupaten Sumenep,kabupaten sumenep,109420.94,12,True,-12.997921016435077,128026.88,0.8546716127113306,normal,Sumenep,1153188.0,97.86,112850.97768,verified_from_source_metadata
+2025,Kabupaten Sumenep,kabupaten sumenep,139436.69,12,True,27.431449592737913,128026.88,1.0891204253356794,normal,Sumenep,1159397.0,91.6,106200.7652,verified_from_source_metadata
+2020,Kabupaten Trenggalek,kabupaten trenggalek,62618.7,12,True,,84486.975,0.7411639486441548,low,,,,,
+2021,Kabupaten Trenggalek,kabupaten trenggalek,67244.24,12,True,7.386834923114027,84486.975,0.7959125060401322,low,Trenggalek,733877.0,96.17,70576.95109,verified_from_source_metadata
+2022,Kabupaten Trenggalek,kabupaten trenggalek,66841.0,12,True,-0.5996647445193903,84486.975,0.7911396993441888,low,Trenggalek,737644.0,94.97,70054.05067999999,verified_from_source_metadata
+2023,Kabupaten Trenggalek,kabupaten trenggalek,66330.87,12,True,-0.7631992340030869,84486.975,0.7851017272188996,low,Trenggalek,741177.0,98.6,73080.0522,verified_from_source_metadata
+2024,Kabupaten Trenggalek,kabupaten trenggalek,60547.89,12,True,-8.718384064614249,84486.975,0.7166535433420358,low,Trenggalek,744516.0,91.32,67989.20111999998,verified_from_source_metadata
+2025,Kabupaten Trenggalek,kabupaten trenggalek,183339.15000000002,12,True,202.80022970247194,84486.975,2.1700285754105884,high,Trenggalek,747614.0,84.3,63023.860199999996,verified_from_source_metadata
+2020,Kabupaten Tuban,kabupaten tuban,292783.12,12,True,,298158.925,0.9819700014010985,normal,,,,,
+2021,Kabupaten Tuban,kabupaten tuban,282600.18,12,True,-3.477980561174432,298158.925,0.947817275635804,normal,Tuban,1204099.0,88.27,106285.81872999998,verified_from_source_metadata
+2022,Kabupaten Tuban,kabupaten tuban,288097.19,12,True,1.945154458146492,298158.925,0.9662537856279164,normal,Tuban,1211557.0,99.52,120574.15264,verified_from_source_metadata
+2023,Kabupaten Tuban,kabupaten tuban,289715.44,12,True,0.5617028059176743,298158.925,0.9716812602540743,normal,Tuban,1218594.0,93.7,114182.25779999999,verified_from_source_metadata
+2024,Kabupaten Tuban,kabupaten tuban,302029.69,12,True,4.250463834443896,298158.925,1.0129822208072423,normal,Tuban,1225205.0,87.79,107560.74695,verified_from_source_metadata
+2025,Kabupaten Tuban,kabupaten tuban,333727.93,12,True,10.495074176316898,298158.925,1.1192954562738646,normal,Tuban,1231374.0,92.0,113286.408,verified_from_source_metadata
+2020,Kabupaten Tulungagung,kabupaten tulungagung,123797.8,12,True,,129960.03499999999,0.9525836154168473,normal,,,,,
+2021,Kabupaten Tulungagung,kabupaten tulungagung,137378.06,12,True,10.969710285643197,129960.03499999999,1.057079278256581,normal,Tulungagung,1094809.0,83.99,91953.00791,verified_from_source_metadata
+2022,Kabupaten Tulungagung,kabupaten tulungagung,119651.42,12,True,-12.903545151241758,129960.03499999999,0.9206785763023225,normal,Tulungagung,1101446.0,83.4,91860.59640000001,verified_from_source_metadata
+2023,Kabupaten Tulungagung,kabupaten tulungagung,135983.66999999998,12,True,13.649858898456845,129960.03499999999,1.046349902875911,normal,Tulungagung,1107803.0,82.6,91504.5278,verified_from_source_metadata
+2024,Kabupaten Tulungagung,kabupaten tulungagung,124041.83,12,True,-8.781819169904725,129960.03499999999,0.9544613465208748,normal,Tulungagung,1113847.0,83.37,92861.42439,verified_from_source_metadata
+2025,Kabupaten Tulungagung,kabupaten tulungagung,138907.43,12,True,11.984344313527128,129960.03499999999,1.0688472806274638,normal,Tulungagung,1119588.0,82.0,91806.216,verified_from_source_metadata
+2020,Kota Batu,kota batu,2880.4,12,True,,2795.5166666666664,1.0303640948900323,normal,,,,,
+2021,Kota Batu,kota batu,3320.29,12,True,15.271837244827102,2795.5166666666664,1.187719622490774,normal,Kota Batu,215000.0,73.16,15729.4,verified_from_source_metadata
+2022,Kota Batu,kota batu,3904.84,12,True,17.605389890642087,2795.5166666666664,1.396822292837937,high,Kota Batu,217619.0,72.51,15779.55369,verified_from_source_metadata
+2023,Kota Batu,kota batu,2807.87,12,True,-28.092572294895568,2795.5166666666664,1.0044189803912218,normal,Kota Batu,220196.0,71.8,15810.072799999998,verified_from_source_metadata
+2024,Kota Batu,kota batu,2113.03,12,True,-24.74615990056519,2795.5166666666664,0.7558638534319835,low,Kota Batu,222685.0,70.97,15803.95445,verified_from_source_metadata
+2025,Kota Batu,kota batu,1746.67,12,True,-17.33813528440202,2795.5166666666664,0.6248111559580519,low,Kota Batu,225120.0,72.1,16231.151999999998,verified_from_source_metadata
+2020,Kota Blitar,kota blitar,3045.44,12,True,,3051.3250000000003,0.9980713296682588,normal,,,,,
+2021,Kota Blitar,kota blitar,3345.17,12,True,9.841927603236321,3051.3250000000003,1.096300787362867,normal,Kota Blitar,150300.0,78.79,11842.137000000002,verified_from_source_metadata
+2022,Kota Blitar,kota blitar,3009.5899999999997,12,True,-10.031777159307309,3051.3250000000003,0.9863223353788926,normal,Kota Blitar,151840.0,80.41,12209.4544,verified_from_source_metadata
+2023,Kota Blitar,kota blitar,3254.74,12,True,8.145627809768108,3051.3250000000003,1.06666448182347,normal,Kota Blitar,153362.0,77.5,11885.555,verified_from_source_metadata
+2024,Kota Blitar,kota blitar,2149.26,12,True,-33.965232245893674,3051.3250000000003,0.7043694132876701,low,Kota Blitar,154867.0,72.88,11286.70696,verified_from_source_metadata
+2025,Kota Blitar,kota blitar,3503.75,12,True,63.02122591031329,3051.3250000000003,1.148271652478841,normal,Kota Blitar,156330.0,74.0,11568.42,verified_from_source_metadata
+2020,Kota Kediri,kota kediri,5938.08,12,True,,4849.298333333333,1.2245235479084775,high,,,,,
+2021,Kota Kediri,kota kediri,5505.62,12,True,-7.282825425053218,4849.298333333333,1.1353436356256352,normal,Kota Kediri,289125.0,78.39,22664.50875,verified_from_source_metadata
+2022,Kota Kediri,kota kediri,5888.24,12,True,6.949626018504729,4849.298333333333,1.2142457723265119,high,Kota Kediri,292199.0,81.45,23799.60855,verified_from_source_metadata
+2023,Kota Kediri,kota kediri,4776.18,12,True,-18.886118772332637,4849.298333333333,0.984921873576899,normal,Kota Kediri,295225.0,81.0,23913.225,verified_from_source_metadata
+2024,Kota Kediri,kota kediri,4846.25,12,True,1.4670720115238511,4849.298333333333,0.999371386719522,normal,Kota Kediri,298227.0,78.91,23533.09257,verified_from_source_metadata
+2025,Kota Kediri,kota kediri,2141.42,12,True,-55.81284498323447,4849.298333333333,0.4415937838429546,low,Kota Kediri,301202.0,74.1,22319.068199999998,verified_from_source_metadata
+2020,Kota Madiun,kota madiun,8757.470000000001,12,True,,7390.496666666667,1.1849636627939757,normal,,,,,
+2021,Kota Madiun,kota madiun,7798.5199999999995,12,True,-10.950080331419931,7390.496666666667,1.0552091898198992,normal,Kota Madiun,196395.0,76.44,15012.433799999999,verified_from_source_metadata
+2022,Kota Madiun,kota madiun,6613.7300000000005,12,True,-15.19249806373516,7390.496666666667,0.8948965540881556,normal,Kota Madiun,198187.0,79.34,15724.15658,verified_from_source_metadata
+2023,Kota Madiun,kota madiun,7026.969999999999,12,True,6.248213942812897,7390.496666666667,0.9508116053544438,normal,Kota Madiun,199991.0,79.6,15919.283599999999,verified_from_source_metadata
+2024,Kota Madiun,kota madiun,7281.5,12,True,3.6221870877490625,7390.496666666667,0.9852517805524121,normal,Kota Madiun,201767.0,77.52,15640.97784,verified_from_source_metadata
+2025,Kota Madiun,kota madiun,6864.79,12,True,-5.722859300968208,7390.496666666667,0.9288672073911135,normal,Kota Madiun,203552.0,73.2,14900.0064,verified_from_source_metadata
+2020,Kota Malang,kota malang,6769.53,12,True,,6049.861666666667,1.1189561634604868,normal,,,,,
+2021,Kota Malang,kota malang,6531.42,12,True,-3.517378606786581,6049.861666666667,1.0795982387476077,normal,Kota Malang,849794.0,71.71,60938.727739999995,verified_from_source_metadata
+2022,Kota Malang,kota malang,6219.47,12,True,-4.776143625735285,6049.861666666667,1.0280350762841135,normal,Kota Malang,857638.0,71.84,61612.71392,verified_from_source_metadata
+2023,Kota Malang,kota malang,5958.16,12,True,-4.201483406142326,6049.861666666667,0.9848423531447138,normal,Kota Malang,865277.0,71.9,62213.416300000004,verified_from_source_metadata
+2024,Kota Malang,kota malang,6060.97,12,True,1.7255327147978727,6049.861666666667,1.0018361301374108,normal,Kota Malang,872694.0,69.36,60530.05583999999,verified_from_source_metadata
+2025,Kota Malang,kota malang,4759.62,12,True,-21.470985667310682,6049.861666666667,0.7867320382256674,low,Kota Malang,879873.0,77.7,68366.1321,verified_from_source_metadata
+2020,Kota Mojokerto,kota mojokerto,2576.31,12,True,,2284.435,1.1277668219931842,normal,,,,,
+2021,Kota Mojokerto,kota mojokerto,2549.27,12,True,-1.0495631348711898,2284.435,1.1159301971822355,normal,Kota Mojokerto,133476.0,77.73,10375.08948,verified_from_source_metadata
+2022,Kota Mojokerto,kota mojokerto,2906.13,12,True,13.998517222577455,2284.435,1.2721438780267331,high,Kota Mojokerto,134815.0,78.27,10551.970049999998,verified_from_source_metadata
+2023,Kota Mojokerto,kota mojokerto,1901.31,12,True,-34.57587926211148,2284.435,0.8322889467198673,normal,Kota Mojokerto,136107.0,76.8,10453.0176,verified_from_source_metadata
+2024,Kota Mojokerto,kota mojokerto,1991.89,12,True,4.764083710704736,2284.435,0.8719398888565445,normal,Kota Mojokerto,137393.0,76.61,10525.677730000001,verified_from_source_metadata
+2025,Kota Mojokerto,kota mojokerto,1781.6999999999998,12,True,-10.552289534060632,2284.435,0.7799302672214354,low,Kota Mojokerto,138613.0,68.7,9522.713099999999,verified_from_source_metadata
+2020,Kota Pasuruan,kota pasuruan,5840.7300000000005,12,True,,4798.981666666667,1.2170769562570394,high,,,,,
+2021,Kota Pasuruan,kota pasuruan,4795.24,12,True,-17.899988528831166,4798.981666666667,0.9992203206999818,normal,Kota Pasuruan,210322.0,83.77,17618.673939999997,verified_from_source_metadata
+2022,Kota Pasuruan,kota pasuruan,4211.51,12,True,-12.173113337392905,4798.981666666667,0.8775840985709121,normal,Kota Pasuruan,213370.0,82.82,17671.303399999997,verified_from_source_metadata
+2023,Kota Pasuruan,kota pasuruan,4630.94,12,True,9.959135796899442,4798.981666666667,0.9649838906795851,normal,Kota Pasuruan,216404.0,82.3,17810.049199999998,verified_from_source_metadata
+2024,Kota Pasuruan,kota pasuruan,5003.52,12,True,8.045450815601175,4798.981666666667,1.0426211949826856,normal,Kota Pasuruan,219392.0,83.32,18279.741439999998,verified_from_source_metadata
+2025,Kota Pasuruan,kota pasuruan,4311.95,12,True,-13.82166954464058,4798.981666666667,0.8985135388097961,normal,Kota Pasuruan,222334.0,77.5,17230.885,verified_from_source_metadata
+2020,Kota Probolinggo,kota probolinggo,4355.59,12,True,,4875.298333333333,0.8933996859679357,normal,,,,,
+2021,Kota Probolinggo,kota probolinggo,5152.96,12,True,18.3068195123967,4875.298333333333,1.0569527540024046,normal,Kota Probolinggo,241703.0,87.71,21199.770129999997,verified_from_source_metadata
+2022,Kota Probolinggo,kota probolinggo,4679.36,12,True,-9.190834006085824,4875.298333333333,0.9598099808592909,normal,Kota Probolinggo,244353.0,87.89,21476.18517,verified_from_source_metadata
+2023,Kota Probolinggo,kota probolinggo,4331.85,12,True,-7.426442932366806,4875.298333333333,0.888530240371615,normal,Kota Probolinggo,246980.0,89.0,21981.22,verified_from_source_metadata
+2024,Kota Probolinggo,kota probolinggo,4904.69,12,True,13.223911261931942,4875.298333333333,1.0060286908937879,normal,Kota Probolinggo,249539.0,90.06,22473.48234,verified_from_source_metadata
+2025,Kota Probolinggo,kota probolinggo,5827.34,12,True,18.81158646112191,4875.298333333333,1.195278647904966,normal,Kota Probolinggo,252085.0,88.9,22410.3565,verified_from_source_metadata
+2020,Kota Surabaya,kota surabaya,6431.33,12,True,,4866.8966666666665,1.3214437125916652,high,,,,,
+2021,Kota Surabaya,kota surabaya,5677.59,12,True,-11.71981534146125,4866.8966666666665,1.166572949634572,normal,Kota Surabaya,2887458.0,77.16,222796.25928,verified_from_source_metadata
+2022,Kota Surabaya,kota surabaya,4687.099999999999,12,True,-17.445606322400884,4866.8966666666665,0.9630572253777047,normal,Kota Surabaya,2899925.0,73.41,212883.49425,verified_from_source_metadata
+2023,Kota Surabaya,kota surabaya,4659.13,12,True,-0.5967442555097846,4866.8966666666665,0.9573102367079912,normal,Kota Surabaya,2911433.0,76.0,221268.908,verified_from_source_metadata
+2024,Kota Surabaya,kota surabaya,4238.5,12,True,-9.028080349764878,4866.8966666666665,0.8708834993414695,normal,Kota Surabaya,2921996.0,82.41,240801.69035999998,verified_from_source_metadata
+2025,Kota Surabaya,kota surabaya,3507.73,12,True,-17.24124100507255,4866.8966666666665,0.7207323763465974,low,Kota Surabaya,2931611.0,84.2,246841.64620000002,verified_from_source_metadata

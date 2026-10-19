@@ -1,0 +1,39 @@
+region_id,region_standard,production_region,demand_region
+KAB_BANGKALAN,Kabupaten Bangkalan,Bangkalan,Kabupaten Bangkalan
+KAB_BANYUWANGI,Kabupaten Banyuwangi,Banyuwangi,Kabupaten Banyuwangi
+KAB_BLITAR,Kabupaten Blitar,Blitar,Kabupaten Blitar
+KAB_BOJONEGORO,Kabupaten Bojonegoro,Bojonegoro,Kabupaten Bojonegoro
+KAB_BONDOWOSO,Kabupaten Bondowoso,Bondowoso,Kabupaten Bondowoso
+KAB_GRESIK,Kabupaten Gresik,Gresik,Kabupaten Gresik
+KAB_JEMBER,Kabupaten Jember,Jember,Kabupaten Jember
+KAB_JOMBANG,Kabupaten Jombang,Jombang,Kabupaten Jombang
+KAB_KEDIRI,Kabupaten Kediri,Kediri,Kabupaten Kediri
+KAB_LAMONGAN,Kabupaten Lamongan,Lamongan,Kabupaten Lamongan
+KAB_LUMAJANG,Kabupaten Lumajang,Lumajang,Kabupaten Lumajang
+KAB_MADIUN,Kabupaten Madiun,Madiun,Kabupaten Madiun
+KAB_MAGETAN,Kabupaten Magetan,Magetan,Kabupaten Magetan
+KAB_MALANG,Kabupaten Malang,Malang,Kabupaten Malang
+KAB_MOJOKERTO,Kabupaten Mojokerto,Mojokerto,Kabupaten Mojokerto
+KAB_NGANJUK,Kabupaten Nganjuk,Nganjuk,Kabupaten Nganjuk
+KAB_NGAWI,Kabupaten Ngawi,Ngawi,Kabupaten Ngawi
+KAB_PACITAN,Kabupaten Pacitan,Pacitan,Kabupaten Pacitan
+KAB_PAMEKASAN,Kabupaten Pamekasan,Pamekasan,Kabupaten Pamekasan
+KAB_PASURUAN,Kabupaten Pasuruan,Pasuruan,Kabupaten Pasuruan
+KAB_PONOROGO,Kabupaten Ponorogo,Ponorogo,Kabupaten Ponorogo
+KAB_PROBOLINGGO,Kabupaten Probolinggo,Probolinggo,Kabupaten Probolinggo
+KAB_SAMPANG,Kabupaten Sampang,Sampang,Kabupaten Sampang
+KAB_SIDOARJO,Kabupaten Sidoarjo,Sidoarjo,Kabupaten Sidoarjo
+KAB_SITUBONDO,Kabupaten Situbondo,Situbondo,Kabupaten Situbondo
+KAB_SUMENEP,Kabupaten Sumenep,Sumenep,Kabupaten Sumenep
+KAB_TRENGGALEK,Kabupaten Trenggalek,Trenggalek,Kabupaten Trenggalek
+KAB_TUBAN,Kabupaten Tuban,Tuban,Kabupaten Tuban
+KAB_TULUNGAGUNG,Kabupaten Tulungagung,Tulungagung,Kabupaten Tulungagung
+KOTA_BATU,Kota Batu,Kota Batu,Kota Batu
+KOTA_BLITAR,Kota Blitar,Kota Blitar,Kota Blitar
+KOTA_KEDIRI,Kota Kediri,Kota Kediri,Kota Kediri
+KOTA_MADIUN,Kota Madiun,Kota Madiun,Kota Madiun
+KOTA_MALANG,Kota Malang,Kota Malang,Kota Malang
+KOTA_MOJOKERTO,Kota Mojokerto,Kota Mojokerto,Kota Mojokerto
+KOTA_PASURUAN,Kota Pasuruan,Kota Pasuruan,Kota Pasuruan
+KOTA_PROBOLINGGO,Kota Probolinggo,Kota Probolinggo,Kota Probolinggo
+KOTA_SURABAYA,Kota Surabaya,Kota Surabaya,Kota Surabaya

@@ -1,0 +1,170 @@
+Tahun,Bulan,Komoditas,Lokasi Asal Pasokan,Provinsi Asal Pasokan,Lokasi Tujuan Pengiriman,Provinsi Tujuan Pengiriman,Volume,Satuan,volume_kg,volume_ton,arus_provinsi,jenis_arus
+2024,Maret,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Kab Bandung,Jawa Barat,8000.0,kg,8000.0,8.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,April,Beras,Padasuka Kab Bandung,Jawa Barat,GPM Cibaduyut,Jawa Barat,1000.0,kg,1000.0,1.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,April,Beras,Padasuka Kab Bandung,Jawa Barat,Kios Pangan Kab Bandung,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,April,Beras,Poktan Barokah Kab Garut,Jawa Barat,GPM Kab Tasikmalaya,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Padasuka,Jawa Barat,GPM Kab Bandung,Jawa Barat,2200.0,kg,2200.0,2.2,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Madeena Kab Bandung,Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Sadulur,Jawa Barat,GPM Kab Bandung,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Sadulur,Jawa Barat,GPM Kab Bekasi,Jawa Barat,2200.0,kg,2200.0,2.2,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Sadulur Kab Bandung Barat,Jawa Barat,GPM Kab Tasikmalaya,Jawa Barat,1000.0,kg,1000.0,1.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Mei,Beras,Sadulur Kab Bandung Barat,Jawa Barat,GPM Kawaluyan Kota Bandung,Jawa Barat,1600.0,kg,1600.0,1.6,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Padasuka,Jawa Barat,GPM Kantor Dinas,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Padasuka,Jawa Barat,GPM Kec Pacet Kab Bandung,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Padasuka,Jawa Barat,GPM Kertasari,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Madeena Kab Bandung,Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,GPM Cakung Jakarta Timur,DKI Jakarta,1000.0,kg,1000.0,1.0,Jawa Barat -> DKI Jakarta,antarprovinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Atsiri Kab Bogor,Jawa Barat,500.0,kg,500.0,0.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sedulur,Jawa Barat,GPM Kantor Dinas,Jawa Barat,2500.0,kg,2500.0,2.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Atsiri Kab Bogor,Jawa Barat,1000.0,kg,1000.0,1.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,3500.0,kg,3500.0,3.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juni,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,3000.0,kg,3000.0,3.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Parikesit,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Parikesit,Jawa Barat,Kios Pangan Pinsar Lancar Barokah,Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Parikesit Kabupaten Ciamis,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Sadulur,Jawa Barat,GPM Jakarta,DKI Jakarta,500.0,kg,500.0,0.5,Jawa Barat -> DKI Jakarta,antarprovinsi
+2024,Juli,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Atsiri Kab Bogor,Jawa Barat,1700.0,kg,1700.0,1.7,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,2800.0,kg,2800.0,2.8,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Gapoktan/Poktan Jawa Barat,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Juli,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,4000.0,kg,4000.0,4.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2024,Agustus,Beras,Gapoktan Parikesit,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Agustus,Beras,Gapoktan Sadulur,Jawa Barat,GPM JCC Jakarta,DKI Jakarta,1000.0,kg,1000.0,1.0,Jawa Barat -> DKI Jakarta,antarprovinsi
+2024,Agustus,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,6000.0,kg,6000.0,6.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2024,September,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Madeena Kab Bandung,Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,September,Beras,Gapoktan Sadulur,Jawa Barat,GPM Gojek Kota Bandung,Jawa Barat,500.0,kg,500.0,0.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,September,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,7000.0,kg,7000.0,7.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,September,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,2500.0,kg,2500.0,2.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Aslupama Bandung Barat,Jawa Barat,GPM Gojek Kota Bandung,Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Aslupama Bandung Barat,Jawa Barat,GPM Saparua,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Bogor,Jawa Barat,Kios Pangan Bogor,Jawa Barat,20000.0,kg,20000.0,20.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,DI Yogyakarta,DI Yogyakarta,GPM UMBY,DI Yogyakarta,250.0,kg,250.0,0.25,DI Yogyakarta -> DI Yogyakarta,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Padasuka,Jawa Barat,GPM Kawaluyan Kota Bandung,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Padasuka,Jawa Barat,GPM Saparua,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Padasuka,Jawa Barat,Kios Pangan Madeena Kab Bandung,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Anggun Kab Bogor,Jawa Barat,8000.0,kg,8000.0,8.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,20000.0,kg,20000.0,20.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,3500.0,kg,3500.0,3.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Anggun Kab Bogor,Jawa Barat,750.0,kg,750.0,0.75,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,3250.0,kg,3250.0,3.25,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Simpul Kab Bandung,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sedulur,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,10000.0,kg,10000.0,10.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Gapoktan Sadulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,10000.0,kg,10000.0,10.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2024,Oktober,Beras,Kabupaten Tegal,Jawa Tengah,Kios Pangan Runi Kab Tegal,Jawa Tengah,1000.0,kg,1000.0,1.0,Jawa Tengah -> Jawa Tengah,antarwilayah_dalam_provinsi
+2024,November,Beras,Cibitung,Jawa Barat,Kab Sukabumi,Jawa Barat,10000.0,kg,10000.0,10.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,November,Beras,Gapoktan Sedulur,Jawa Barat,Kios Pangan Atsiri Kab Bogor,Jawa Barat,650.0,kg,650.0,0.65,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,November,Beras,Gapoktan Sedulur,Jawa Barat,Kios Pangan Sugema Cikalong Wetan,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,November,Beras,Kab Lampung Tengah,Lampung,Kios Pangan Kab Lampung Tengah,Lampung,13000.0,kg,13000.0,13.0,Lampung -> Lampung,antarwilayah_dalam_provinsi
+2024,November,Beras,"Kab. Sidrap, Sulawesi Selatan",Sulawesi Selatan,Tual,Maluku,25200.0,kg,25200.0,25.2,Sulawesi Selatan -> Maluku,antarprovinsi
+2024,Desember,Beras,Aslupama Bandung Barat,Jawa Barat,GPM Gojek Kota Bandung,Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2024,Desember,Beras,Gapoktan Sedulur,Jawa Barat,Kios Pangan Atsiri Kab Bogor,Jawa Barat,700.0,kg,700.0,0.7,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,9500.0,kg,9500.0,9.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"Kios Pangan Anggun, Kab. Bogor",Jawa Barat,500.0,kg,500.0,0.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,GPM Kota Bandung,Jawa Barat,4500.0,kg,4500.0,4.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sugema Kab. Sumedang,Jawa Barat,Kios Pangan Sugema Ali Kota Sumedang,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sugema Kab. Sumedang,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,1655.0,kg,1655.0,1.655,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,Kios Pangan Sugema Ali Kota Sumedang,Jawa Barat,2500.0,kg,2500.0,2.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,GPM Kab Subang (SMU 1 Pabuaran),Jawa Barat,1000.0,kg,1000.0,1.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,Kios Pangan Koperasi Lancar Barokah,Jawa Barat,500.0,kg,500.0,0.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Kios Pangan Cipayung Kota Depok,Jawa Barat,Kios Pangan Atsiri Kab. Bogor,Jawa Barat,800.0,kg,800.0,0.8,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Kios Pangan Atsiri Kab. Bogor,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,500.0,kg,500.0,0.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Februari,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5200.0,kg,5200.0,5.2,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Maret,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,18000.0,kg,18000.0,18.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Maret,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,Kios Pangan Atsiri Kab. Bogor,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Maret,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Maret,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Maret,Beras,Poktan Tani Jaya Kab. Sukabumi,Jawa Barat,Kios Pangan Nabiya Kab. Sukabumi,Jawa Barat,20000.0,kg,20000.0,20.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan KSP, Kota Bandung",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Gerai Kartika, Kab. Bandung",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,April,Beras,"Poktan Srimakmur 3, Kab. Indramayu",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,22000.0,kg,22000.0,22.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,3290.0,kg,3290.0,3.29,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,4500.0,kg,4500.0,4.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,"Poktan Srimakmur 3, Kab. Indramayu",Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,12000.0,kg,12000.0,12.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Gerai Kartika, Kab. Bandung",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Puspa Jawara, Kota Bandung",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Mei,Beras,Kabupaten Maros,Sulawesi Selatan,Kota Tual,Maluku,25000.0,kg,25000.0,25.0,Sulawesi Selatan -> Maluku,antarprovinsi
+2025,Juni,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,8000.0,kg,8000.0,8.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juni,Beras,Poktan Tani Sejahtera Kab. Sukabumi,Jawa Barat,Kios Pangan Nabiya Kab. Sukabumi,Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juni,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,7000.0,kg,7000.0,7.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juni,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,Kios Pangan Koperasi Lancar Barokah,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juni,Beras,"Gapoktan Karya Mukti, Kab. Sigi",Sulawesi Tengah,"Kios Pangan Ranggulao, Kab. Sigi",Sulawesi Tengah,25000.0,kg,25000.0,25.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2025,Juni,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Gerai Kartika, Kab. Bandung",Jawa Barat,12000.0,kg,12000.0,12.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,Poktan Tani Sejahtera Kab. Sukabumi,Jawa Barat,Kios Pangan Nabiya Kab. Sukabumi,Jawa Barat,17000.0,kg,17000.0,17.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan KSP, Kota Bandung",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Gerai Kartika, Kab. Bandung",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Juli,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,12000.0,kg,12000.0,12.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,3300.0,kg,3300.0,3.3,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,7000.0,kg,7000.0,7.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Puspa Jawara, Kota Bandung",Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan KSP, Kota Bandung",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Agustus,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,Kios Pangan Koperasi Lancar Barokah,Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,5490.0,kg,5490.0,5.49,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,6000.0,kg,6000.0,6.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"GPM PMPP, Citeurep, Kab. Bogor",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"GPM Tajur Halang, Kabupaten Bogor",Jawa Barat,780.0,kg,780.0,0.78,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,Kios Pangan Atsiri Kab. Bogor,Jawa Barat,620.0,kg,620.0,0.62,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,September,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Sugema, Kab. Bandung Barat",Jawa Barat,3500.0,kg,3500.0,3.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,Kabupaten Maros,Sulawesi Selatan,Kota Tual,Maluku,75000.0,kg,75000.0,75.0,Sulawesi Selatan -> Maluku,antarprovinsi
+2025,Oktober,Beras,"Gapoktan Mawar Tani, Kab. Sampang",Jawa Timur,Kios Pangan Disperta KP Kab. Sampang,Jawa Timur,25000.0,kg,25000.0,25.0,Jawa Timur -> Jawa Timur,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,Kab. Malang,Jawa Timur,Kios Pangan Kab. Malang,Jawa Timur,41500.0,kg,41500.0,41.5,Jawa Timur -> Jawa Timur,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Puspa Jawara, Kota Bandung",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,4000.0,kg,4000.0,4.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,Kab. Banggai,Sulawesi Tengah,Kios Pangan Banggai Kepulauan,Sulawesi Tengah,10000.0,kg,10000.0,10.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,Gapoktan Sadulur Kab.Bandung Barat,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,2700.0,kg,2700.0,2.7,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Oktober,Beras,Kabupaten Pelalawan,Riau,Kabupaten Siak,Riau,21000.0,kg,21000.0,21.0,Riau -> Riau,antarwilayah_dalam_provinsi
+2025,November,Beras,"Gapoktan Karya Mukti, Kab. Sigi",Sulawesi Tengah,"Kios Pangan Ranggulao, Kab. Sigi",Sulawesi Tengah,25000.0,kg,25000.0,25.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2025,November,Beras,Gapoktan Parikesit Kab. Ciamis,Jawa Barat,"GPM PMPP, Citeurep, Kab. Bogor",Jawa Barat,5000.0,kg,5000.0,5.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,padasuka,Jawa Barat,"Kios Pangan Cipayung, Kota Depok",Jawa Barat,10000.0,kg,10000.0,10.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Madeena, Kab. Sumedang",Jawa Barat,9000.0,kg,9000.0,9.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Puspa Jawara, Kota Bandung",Jawa Barat,2000.0,kg,2000.0,2.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,7000.0,kg,7000.0,7.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,Kabupaten Pelalawan,Riau,Kabupaten Siak,Riau,60000.0,kg,60000.0,60.0,Riau -> Riau,antarwilayah_dalam_provinsi
+2025,November,Beras,Poktan Tani Sejahtera Kab. Sukabumi,Jawa Barat,Kios Pangan Nabiya Kab. Sukabumi,Jawa Barat,25000.0,kg,25000.0,25.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,November,Beras,Kota Surabaya,Jawa Timur,CV. Gunung Pangan Lestar Balikpapan,Kalimantan Timur,50000.0,kg,50000.0,50.0,Jawa Timur -> Kalimantan Timur,antarprovinsi
+2025,Desember,Beras,Manado,Sulawesi Utara,Kepulauan Sangihe,Sulawesi Utara,5000.0,kg,5000.0,5.0,Sulawesi Utara -> Sulawesi Utara,antarwilayah_dalam_provinsi
+2025,Desember,Beras,Manado,Sulawesi Utara,Kepulauan Sitaro,Sulawesi Utara,5000.0,kg,5000.0,5.0,Sulawesi Utara -> Sulawesi Utara,antarwilayah_dalam_provinsi
+2025,Desember,Beras,Manado,Sulawesi Utara,Kepulauan Talaud,Sulawesi Utara,5000.0,kg,5000.0,5.0,Sulawesi Utara -> Sulawesi Utara,antarwilayah_dalam_provinsi
+2025,Desember,Beras,Surabaya,Jawa Timur,"UD. Miami, Kota Balikpapan",Kalimantan Timur,50000.0,kg,50000.0,50.0,Jawa Timur -> Kalimantan Timur,antarprovinsi
+2025,Desember,Beras,Kab. Banggai,Sulawesi Tengah,Kios Pangan Banggai Kepulauan,Sulawesi Tengah,10000.0,kg,10000.0,10.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2025,Desember,Beras,Gapoktan Jawa Barat,Jawa Barat,Gerai Pasar Pangan Bogor,Jawa Barat,25000.0,kg,25000.0,25.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2025,Desember,Beras,"Gapoktan Padasuka, Kab. Bandung",Jawa Barat,"Kios Pangan Simpul, Kab. Bandung",Jawa Barat,3000.0,kg,3000.0,3.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Februari,Beras,Samarinda,Kalimantan Timur,Kab Mahakam Ulu,Kalimantan Timur,300.0,kg,300.0,0.3,Kalimantan Timur -> Kalimantan Timur,antarwilayah_dalam_provinsi
+2026,Februari,Beras,Samarinda,Kalimantan Timur,Kab Mahakam Ulu,Kalimantan Timur,1500.0,kg,1500.0,1.5,Kalimantan Timur -> Kalimantan Timur,antarwilayah_dalam_provinsi
+2026,Maret,Beras,Poktan Parikesit Kab Ciamis,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,April,Beras,"Gapoktan/PoktanKab Sigi, Donggala dan Tolitoli",Sulawesi Tengah,Kios Pangan Ranggulao Kab. Sigi,Sulawesi Tengah,30000.0,kg,30000.0,30.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2026,April,Beras,Kabupaten Maros,Sulawesi Selatan,Kota Tual,Maluku,25000.0,kg,25000.0,25.0,Sulawesi Selatan -> Maluku,antarprovinsi
+2026,Mei,Beras,Poktan Parikesit Kab Ciamis,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Mei,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,10000.0,kg,10000.0,10.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2026,Juni,Beras,Maros,Sulawesi Selatan,Kota Tual,Maluku,25000.0,kg,25000.0,25.0,Sulawesi Selatan -> Maluku,antarprovinsi
+2026,Juni,Beras,"Poktan Parikesit, Pamarican, Kab Ciamis",Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Juni,Beras,"Poktan Parikesit, Pamarican, Kab Ciamis",Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Juni,Beras,"Poktan Parikesit, Pamarican, Kab Ciamis",Jawa Barat,Kios Pangan Simpul Kab. Bandung,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Juli,Beras,"Poktan Parikesit, Pamarican, Kab Ciamis",Jawa Barat,Kios Pangan Simpul Kab. Bandung,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Juli,Beras,Kabupaten Banggai,Sulawesi Tengah,Kios Pangan Kab Banggai Kepulauan,Sulawesi Tengah,10000.0,kg,10000.0,10.0,Sulawesi Tengah -> Sulawesi Tengah,antarwilayah_dalam_provinsi
+2026,Juli,Beras,Gapoktan Sadulur Kab Bandung,Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,1500.0,kg,1500.0,1.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Juli,Beras,"Poktan Parikesit, Pamarican, Kab Ciamis",Jawa Barat,Kios Pangan Cipayung Kota Depok,Jawa Barat,5500.0,kg,5500.0,5.5,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Agustus,Beras,Kabupaten Sambas,Kalimantan Barat,Kios Pangan Provinsi Kalbar di Pontianak,Kalimantan Barat,30000.0,kg,30000.0,30.0,Kalimantan Barat -> Kalimantan Barat,antarwilayah_dalam_provinsi
+2026,Agustus,Beras,Kabupaten Sukabumi,Jawa Barat,Kabupaten Sukabumi,Jawa Barat,10000.0,kg,10000.0,10.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi
+2026,Agustus,Beras,Kabupaten Bogor,Jawa Barat,Kios Pangan Pasarpangan.Id,Jawa Barat,50000.0,kg,50000.0,50.0,Jawa Barat -> Jawa Barat,antarwilayah_dalam_provinsi

@@ -6,7 +6,6 @@ __pycache__/
 .streamlit/secrets.toml
 
 # Data penelitian dan hasil pemrosesan
-data/
 outputs/
 
 # File editor dan sistem
